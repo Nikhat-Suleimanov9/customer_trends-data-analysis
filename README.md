@@ -109,6 +109,8 @@ An interactive Power BI dashboard was created to visualize:
 * Subscription vs. non-subscription performance
 * Product category and item-level trends
 * Shipping type impact on spending
+  
+<img width="1238" height="740" alt="image" src="https://github.com/user-attachments/assets/148c8a8e-151a-4b4c-b3cc-f0e78010cde5" />
 
 ---
 
@@ -131,3 +133,9 @@ Certain age groups contribute a disproportionate share of total revenue, indicat
 
 Customer Reviews Influence Trust and Recommendations
 Missing review ratings reduce data completeness and may impact customer trust. Improving review collection can strengthen product credibility and enhance recommendation accuracy.
+
+## Links
+* Jupyter Notebook: [Customer_Shopping_Behavior_Analysis.ipynb](customer_trends-data-analysis/Customer_Shopping_Behavior_Analysis.ipynb)
+* SQL queries: [customer_behavior_queries.sql](customer_trends-data-analysis/customer_behavior_queries.sql)
+* PowerBI Dashboard: [Customer_Behaviour_Dashboard.pbix](customer_trends-data-analysis/Customer_Behaviour_Dashboard.pbix)
+* Documentation: [Customer_Behavior_Analysis.pdf](customer_trends-data-analysis/Customer_Behavior_Analysis.pdf)
